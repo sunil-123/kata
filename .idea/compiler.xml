@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Kata" />
+        <module name="Chop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Kata" target="1.5" />
+      <module name="Chop" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
